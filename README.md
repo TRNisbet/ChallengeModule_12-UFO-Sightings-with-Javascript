@@ -29,9 +29,7 @@ The bottom section of the website references data.js and is a searchable dataset
 The website while functional does have room for the following improvements:
 
 •	The Data Set is a static file and would need to be manually updated.
-    
-    * If an online data set is available with an api then integration into it would allow the data set to update with new information automatically.
+** If an online data set is available with an api then integration into it would allow the data set to update with new information automatically.
 •	The “Filter Search” function is case sensitive and the date field is not standardized for the input to be a date.
-   
-   * The issues above allows for slight deviation in how a user inputs the fields to show no results. (Image below shown using “Circle” instead of “circle” and no results populating.
+** The issues above allows for slight deviation in how a user inputs the fields to show no results. (Image below shown using “Circle” instead of “circle” and no results populating.
 ![img](./static/images/FilterSearchCapCircle.jpg)
